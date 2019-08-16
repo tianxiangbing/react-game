@@ -1,0 +1,17 @@
+body{
+    font-size: 12px;
+    color:#333;
+    line-height: 1.6;
+}
+ul,li{
+    list-style-type: none;
+    font-size: 10px;
+}
+.stage{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background-color:#fefefe;
+}
